@@ -1,7 +1,7 @@
-Meet with Tarshen Monday 24th May to review Sprint 3 get ready to begin Sprint 4
-
-Meeting with Mr Jiahao 25 May 12:00pm:
-
+## Meeting 24th June (Monday) 4pm:
+ - Meeting with Tarshen Monday 24th May to review Sprint 3.
+ 
+## Meeting with Mr Jiahao 25 May (Tuesday) 12pm:
 For Sprint 4:
 
 - Implement not being able to accept your own job
@@ -101,6 +101,14 @@ Sipho Sikakane.(Scrum master/Backend)
 - Tasks completed yesterday: Labellers can remove themselves from jobs
 - Tasks for the day: Look into how to structure database for job labelling
 - Impediments: Tests
+
+
+## Daily Scrum Meet 28th May (Friday) 11am: 
+
+
+
+
+
 
 ## Daily Scrum Meet 31st May (Monday) 4pm:
 
@@ -227,4 +235,13 @@ Sipho Sikakane.(Scrum master/Backend)
 - Tasks completed yesterday:  Look into how to structure database for job labelling
 - Tasks for the day: Get build to pass
 - Impediments: Lectures and TIme
+
+## Daily Scrum Meet 3rd June (Thursday) 4pm:
+
+## Daily Scrum Meet 4th June (Friday) 11am:
+
+
+
+
+
 
